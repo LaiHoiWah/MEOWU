@@ -29,10 +29,10 @@
 ### Project Map
 1. Commons List 
 
-| Name                           | Usage                         |
-|:-------------------------------|:------------------------------|
-| com-meowu-starter-dependencies | Parent Dependencies pom       |
-| com-meowu-starter-commons      | Commons package               |
-| com-meowu-starter-jpa          | JPA plugin                    |
-| com-meowu-starter-web          | Web Component                 |
-| com-meowu-starter-security     | Application Security Component|
+| Name                       | Usage                         |
+|:---------------------------|:------------------------------|
+| meowu-starter-dependencies | Parent Dependencies pom       |
+| meowu-starter-commons      | Commons package               |
+| meowu-starter-jpa          | JPA plugin                    |
+| meowu-starter-web          | Web Component                 |
+| meowu-starter-security     | Application Security Component|
